@@ -137,9 +137,9 @@ footer {
 <body>
 
 <header>
-  <h2>सरस्वती शिशु मंदिर</h2>
-  <h3>महुडिया बडोद विद्यालय</h3>
-  <p>त्रैमासिक परीक्षा परिणाम 2026</p>
+  <h2>शिशु</h2>
+  <h3>विद्यालय</h3>
+  <p>परीक्षा परिणाम 2026</p>
 </header>
 
 <div class="box">
@@ -162,7 +162,7 @@ footer {
 </div>
 
 <footer>
-  <p>विद्यालय परिवार की ओर से शुभकामनाएँ</p>
+  <p>विद्यालय</p>
 </footer>
 
 <script>
@@ -178,9 +178,9 @@ function showResult() {
 
   result.textContent =
     "रोल नंबर " + roll +
-    " का परिणाम अभी वेबसाइट पर उपलब्ध नहीं है।";
+ ";
 }
 </script>
-
 </body>
 </html>
+https://ssvmexam.in/UG_NEP_RE
